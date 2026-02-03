@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Radio Online Gratis</title>
+</head>
+<body>
+  <h1>🎧 Radio Kampus Online</h1>
+
+  <audio controls autoplay>
+    <source src="https://stream.caster.fm:PORT/live" type="audio/mpeg">
+  </audio>
+
+</body>
+</html>
