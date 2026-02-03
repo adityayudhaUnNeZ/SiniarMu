@@ -7,7 +7,7 @@
   <h1>🎧 Radio Kampus Online</h1>
 
   <audio controls autoplay>
-    <source src="https://stream.caster.fm:PORT/live" type="audio/mpeg">
+    <source src="https://stream.caster.fm:12179/live" type="audio/mpeg">
   </audio>
 
 </body>
